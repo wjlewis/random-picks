@@ -38,6 +38,7 @@
   min-width: 100px;
   background-color: unset;
   border: unset;
+  border-left: 1px solid #999;
 
   &:hover {
     background-color: rgba(230, 230, 230, 0.5);
